@@ -14,3 +14,13 @@ AWS Lambda – To run a Python script that identifies and deletes unused EBS sna
 IAM (Identity and Access Management) – To create roles and policies that allow the Lambda function to access EC2 resources and manage snapshots.
 
 
+
+
+## Project Architecture
+
+
+
+
+![Architecture](https://github.com/user-attachments/assets/72686c4c-2678-4b09-8c9b-51e4b5415b13)
+
+
